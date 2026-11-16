@@ -8,7 +8,6 @@ public static void main(String[] args){
   double altura;
   double imc;
   String nome;
-  String genero;
 
   Scanner teclado = new Scanner(System.in);
 
